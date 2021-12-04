@@ -1,5 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"spr_mainCharacter","path":"sprites/spr_mainCharacter/spr_mainCharacter.yy",},"order":0,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"o_mainCharacter","path":"objects/o_mainCharacter/o_mainCharacter.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_mainCharacter","path":"sprites/spr_mainCharacter/spr_mainCharacter.yy",},"order":0,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"o_mainCharacter","path":"objects/o_mainCharacter/o_mainCharacter.yy",},"order":0,},
     {"id":{"name":"spr_main_Character_jump","path":"sprites/spr_main_Character_jump/spr_main_Character_jump.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},

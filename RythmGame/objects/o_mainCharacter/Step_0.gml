@@ -13,7 +13,7 @@ vsp=vsp+grv;
 
 if (place_meeting(x,y+1,o_ground) && (key_jump)) {
 	vsp=-7;
-	//sprite_index = spr_main_Character_jump;
+	sprite_index = spr_main_Character_jump;
 }
 
 
@@ -22,7 +22,7 @@ if (place_meeting(x,y+vsp,o_ground)) {
 		y=y+sign(vsp);	
 	}
 	vsp=0;
-	//sprite_index = spr_mainCharacter;
+	sprite_index = spr_mainCharacter;
 	
 }
 

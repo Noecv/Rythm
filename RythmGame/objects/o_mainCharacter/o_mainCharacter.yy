@@ -3,7 +3,7 @@
     "name": "spr_mainCharacter",
     "path": "sprites/spr_mainCharacter/spr_mainCharacter.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

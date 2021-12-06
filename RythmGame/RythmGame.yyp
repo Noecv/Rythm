@@ -9,6 +9,7 @@
     {"id":{"name":"spr_epee","path":"sprites/spr_epee/spr_epee.yy",},"order":5,},
     {"id":{"name":"o_epee","path":"objects/o_epee/o_epee.yy",},"order":4,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
+    {"id":{"name":"spr_vie0","path":"sprites/spr_vie0/spr_vie0.yy",},"order":13,},
     {"id":{"name":"soleil","path":"objects/soleil/soleil.yy",},"order":2,},
     {"id":{"name":"o_mainCharacter","path":"objects/o_mainCharacter/o_mainCharacter.yy",},"order":0,},
     {"id":{"name":"spr_vie5","path":"sprites/spr_vie5/spr_vie5.yy",},"order":8,},
@@ -19,6 +20,9 @@
     {"id":{"name":"spr_timing","path":"sprites/spr_timing/spr_timing.yy",},"order":8,},
     {"id":{"name":"MusicMonde1","path":"sounds/MusicMonde1/MusicMonde1.yy",},"order":0,},
     {"id":{"name":"spr_main_Character_jump","path":"sprites/spr_main_Character_jump/spr_main_Character_jump.yy",},"order":2,},
+    {"id":{"name":"spr_vie2","path":"sprites/spr_vie2/spr_vie2.yy",},"order":11,},
+    {"id":{"name":"spr_vie1","path":"sprites/spr_vie1/spr_vie1.yy",},"order":12,},
+    {"id":{"name":"spr_vie3","path":"sprites/spr_vie3/spr_vie3.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

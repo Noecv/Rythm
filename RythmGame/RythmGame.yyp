@@ -3,6 +3,7 @@
     {"id":{"name":"spr_coupEpee","path":"sprites/spr_coupEpee/spr_coupEpee.yy",},"order":6,},
     {"id":{"name":"oMusic","path":"objects/oMusic/oMusic.yy",},"order":1,},
     {"id":{"name":"spr_mainCharacter","path":"sprites/spr_mainCharacter/spr_mainCharacter.yy",},"order":0,},
+    {"id":{"name":"Gameover","path":"sprites/Gameover/Gameover.yy",},"order":7,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
     {"id":{"name":"spr_epee","path":"sprites/spr_epee/spr_epee.yy",},"order":5,},
     {"id":{"name":"o_epee","path":"objects/o_epee/o_epee.yy",},"order":4,},

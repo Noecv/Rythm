@@ -11,6 +11,8 @@
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"soleil","path":"objects/soleil/soleil.yy",},"order":2,},
     {"id":{"name":"o_mainCharacter","path":"objects/o_mainCharacter/o_mainCharacter.yy",},"order":0,},
+    {"id":{"name":"spr_vie5","path":"sprites/spr_vie5/spr_vie5.yy",},"order":8,},
+    {"id":{"name":"spr_vie4","path":"sprites/spr_vie4/spr_vie4.yy",},"order":9,},
     {"id":{"name":"o_ground","path":"objects/o_ground/o_ground.yy",},"order":3,},
     {"id":{"name":"o_timing","path":"objects/o_timing/o_timing.yy",},"order":6,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":4,},

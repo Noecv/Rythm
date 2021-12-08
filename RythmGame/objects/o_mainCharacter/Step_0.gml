@@ -11,6 +11,11 @@ key_jump = keyboard_check_pressed(vk_up);
 //x = x+ hsp;
 vsp=vsp+grv;
 
+if(invincibility>0){
+	invincibility--;
+	sprite_index = spr_mainCharacterHit;
+}
+
 if (place_meeting(x,y+1,o_ground) && (key_jump)) {
 	vsp=-7;
 	sprite_index = spr_main_Character_jump;

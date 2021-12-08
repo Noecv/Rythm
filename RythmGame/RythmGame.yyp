@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_mainCharacterHit","path":"sprites/spr_mainCharacterHit/spr_mainCharacterHit.yy",},"order":14,},
     {"id":{"name":"spr_coupEpee","path":"sprites/spr_coupEpee/spr_coupEpee.yy",},"order":6,},
     {"id":{"name":"oMusic","path":"objects/oMusic/oMusic.yy",},"order":1,},
     {"id":{"name":"spr_mainCharacter","path":"sprites/spr_mainCharacter/spr_mainCharacter.yy",},"order":0,},

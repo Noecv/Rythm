@@ -24,6 +24,7 @@
     {"id":{"name":"MusicMonde1","path":"sounds/MusicMonde1/MusicMonde1.yy",},"order":0,},
     {"id":{"name":"spr_main_Character_jump","path":"sprites/spr_main_Character_jump/spr_main_Character_jump.yy",},"order":2,},
     {"id":{"name":"spr_vie2","path":"sprites/spr_vie2/spr_vie2.yy",},"order":11,},
+    {"id":{"name":"temps","path":"objects/temps/temps.yy",},"order":8,},
     {"id":{"name":"spr_vie1","path":"sprites/spr_vie1/spr_vie1.yy",},"order":12,},
     {"id":{"name":"spr_vie3","path":"sprites/spr_vie3/spr_vie3.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -69,7 +70,7 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"321063008.mp3","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.7.603",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "RythmGame",

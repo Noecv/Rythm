@@ -6,5 +6,11 @@ x=x+hsp;
 
 if(x<=0){
 	
-	x=1200;
+	instance_destroy();
+}
+
+if(o_epee.key_attack){
+	if(x>=190 && x <=255){
+			instance_destroy();
+	}
 }

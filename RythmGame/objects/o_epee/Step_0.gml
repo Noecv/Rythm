@@ -9,10 +9,7 @@ x=inst_38619805.x+10;
 if(key_attack){
 	sprite_index = spr_coupEpee;
 	av=15;
-	if(o_ennemi.x>=190 && o_ennemi.x <=255){
-		o_ennemi.x = 1200;
-	}
-	
+
 }
 
 if (av>0){

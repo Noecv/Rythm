@@ -84,6 +84,7 @@
     {"name":"inst_5323B641","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6623E91E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_69378A4C","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_5AD210D6","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

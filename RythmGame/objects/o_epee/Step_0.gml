@@ -6,7 +6,6 @@ key_attack = keyboard_check_pressed(vk_right);
 y=inst_38619805.y-35;
 x=inst_38619805.x+10;
 
-
 if(key_attack){
 	sprite_index = spr_coupEpee;
 	av=15;

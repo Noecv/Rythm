@@ -17,7 +17,6 @@
     {"id":{"name":"spr_vie5","path":"sprites/spr_vie5/spr_vie5.yy",},"order":8,},
     {"id":{"name":"spr_vie4","path":"sprites/spr_vie4/spr_vie4.yy",},"order":9,},
     {"id":{"name":"o_barre_de_vie","path":"objects/o_barre_de_vie/o_barre_de_vie.yy",},"order":7,},
-    {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":8,},
     {"id":{"name":"o_ground","path":"objects/o_ground/o_ground.yy",},"order":3,},
     {"id":{"name":"o_timing","path":"objects/o_timing/o_timing.yy",},"order":6,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":4,},

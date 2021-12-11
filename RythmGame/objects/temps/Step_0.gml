@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(current_time >= t + 500){
+if(current_time >= t + 1333){
 	t = current_time;
-	instance_create_layer(988,446,"Instances",o_ennemi);
+	instance_create_layer(790,447,"Instances",o_ennemi);
 }
 
-//delai = nbCases / hsp (en ms)
+//delai = nbCases / hsp  / 60 (en s)
